@@ -1,0 +1,2 @@
+# trip-form
+The data is required to be maintained on the students and staff like, name, address, any medical history etc. as a precautionary measurement. Currently this data is stored  in the form of excel sheets or in the form of handwritten files. There is a need to automate this feature to the administration department to maintain and retrieve data efficiently. In this system we are providing the students to insert and update their data and to the admin to view and delete their data from the database.
